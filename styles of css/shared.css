@@ -1,0 +1,59 @@
+body{
+    background-color: red;
+    text-align: center;
+
+}
+
+h1{
+    font-family:'Oswald',sans-serif;
+    
+}
+
+p{
+    font-family: 'Fira Sans' sans-serif;
+    
+}
+
+a {
+    font-family: sans-serif;
+    text-decoration: none;
+    color: aqua;
+    text-decoration: none;
+
+}
+
+a:hover{
+   text-decoration: underline;
+}
+
+#id2{
+    text-align: left;
+    font-size:larger ;
+}
+
+#pid3{
+    color:greenyellow;
+}
+
+#pid4{
+    color: black;
+    font-size: medium;
+}
+
+#id6{
+    font-size: larger;
+    list-style: none;
+}
+
+#id7{
+    font-size: medium;
+}
+
+#id8{
+    font-size: larger;
+    list-style: none;
+}
+
+ul{
+    list-style: none;
+}

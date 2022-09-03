@@ -1,0 +1,40 @@
+body{
+  text-align: center;
+  background-color: greenyellow;
+  margin: 50px;
+}
+
+img{
+  width: 350px;
+  height: 400px;
+  border-radius:100px;
+}
+
+h1{
+  font-family:'oswald',sans-serif;
+  color: blue; 
+ 
+ }
+
+p{
+text-align: 'Fira Sans',sans-serif ;
+color: blue;
+font-weight: bold;
+font-size: 25px;
+
+}
+
+#id1{
+  color: brown;
+  font-family: 'oswald',Arial, Helvetica, sans-serif;
+  }
+
+
+
+
+
+ 
+
+  
+ 
+    
