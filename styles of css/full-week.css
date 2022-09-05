@@ -4,4 +4,17 @@ a{
    border-radius: 14px;
    font-size: 24px ;
    text-decoration: none;
+   padding: 12px;
+   border: 8px solid rgb(167, 1, 78)
 }
+
+table,th,td{
+   border: 20px solid black ;
+   border-collapse: collapse;
+   border-color: blue;
+   border-radius: 10px;
+   width: 70pc;
+   padding: 10px blue;
+   
+}
+
